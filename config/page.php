@@ -15,12 +15,13 @@ return [
         "data" => [
             "baseTitle" => " | oophp",
             "bodyClass" => null,
-            "favicon" => "favicon.ico",
+            "favicon" => "fav.ico",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
                 "css/dbwebb-se.min.css",
+                "css/empty.css",
                 //"css/another.min.css",
             ],
             "javascripts" => [
@@ -36,7 +37,7 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
+                "siteLogo"      => "image/theme/mylogo.png",
                 "siteLogoAlt"   => "Löv",
             ],
         ],
@@ -46,7 +47,7 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "oophp",
-                "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
+                "siteLogoTextIcon" => "image/theme/mylogo_40x40.png",
                 "siteLogoTextIconAlt" => "Löv-bild",
             ],
         ],
@@ -74,14 +75,14 @@ return [
                         "template" => "anax/v2/block/default",
                         "contentRoute" => "block/footer-col-1",
                     ],
-                    [
-                        "template" => "anax/v2/block/default",
-                        "contentRoute" => "block/footer-col-2",
-                    ],
-                    [
-                        "template" => "anax/v2/block/default",
-                        "contentRoute" => "block/footer-col-3",
-                    ]
+                    // [
+                    //     "template" => "anax/v2/block/default",
+                    //     "contentRoute" => "block/footer-col-2",
+                    // ],
+                    // [
+                    //     "template" => "anax/v2/block/default",
+                    //     "contentRoute" => "block/footer-col-3",
+                    // ]
                 ]
             ],
             "sort" => 1

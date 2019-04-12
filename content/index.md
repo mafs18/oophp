@@ -1,27 +1,21 @@
 ---
 title: "Min fina titel"
 ---
-Min me-sida i kursen oophp
+Min me-sida i kursen OOPHP.
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Detta innehåll är skrivet i markdown och man kan hitta innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+[FIGURE src="image/me.jpg" class="right my-image" caption="Student Maria F."]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Hej, det är min me-sida  som jag startar nu i april 2019. Den sidan skapas inder Webbprogrammering 120 distans för kursen OOPHP. Jag användar terminal Cygwin, texteditor Atom, har jobbat med PHP, HTML, CSS. Configuration filar av XAMMP Apache.  labbmiljö f;r den här kursen (Atom, Cygwin, Git, Xampp Apache) och massa andra filar.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Mitt namn är Maria Feber. Född och uppvuxen i Gamla Soviet Union. Har kommit i Sverige i 2002. Har flyttat i Ronneby i 2007. Har fått i mitt livet 2 barn: en flicka och en pojke.
+Programmering det är den mest hemliga saken  för mig. Vill fatta dens principer och logik.
+Allt annat möjligt kunskap redan ligger någonstans i min hjärna : medicin, filosofi, music, psykologi, politic, globala processer inom samhället i världen, mm.
+Modernt liv är omöjligt utan IT, därför tror jag att det är viktig också att kunna fatta principer om vad är programmering.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+Om jag skall nämna någon hobby, det är fixa  något för hem, för barn. Den bästa ide är att gå i skogen vid en sjö och grilla, drömma i solen och lyssna på ljudet av havet eller flodmuren.
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+PS. VIlket fantastiskt bild har Mikael på den sidan! Ville inte sätta min bild istället...Förlåt lilla Mikael.

@@ -3,3 +3,27 @@
  *
  * To use for showing how the website looks when there is no style at all.
  */
+
+body {
+ background-color: #ebf7fb;
+}
+
+h1 {
+    color: #de58bc;
+}
+.my-image {
+    width: 35%;
+    border-style: groove;
+    border-color: grey;
+}
+
+.cat-image {
+    background-color: none;
+}
+
+.footer-column {
+    width: 100%;
+}
+.footer-column-1 {
+    border-right: none;
+}
