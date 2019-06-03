@@ -26,7 +26,7 @@ $app->router->get("guess/play", function () use ($app) {
         unset($_SESSION["game"]);
         $_SESSION["game"] = new Mos\Guess\Guess();
     }
-    $message = "Beginning of the game. please guess the number 1 - 100";
+    $message = "Beginning of the game. Please guess the number 1 - 100";
     $tries = 6;
     $data = [
         "title" => "Gissa numret med PHP",
@@ -42,7 +42,7 @@ $app->router->post("guess/play", function () use ($app) {
     if (!isset($_SESSION["game"])) {
         $_SESSION["game"] = new Mos\Guess\Guess();
     }
-    $message = "Beginning of the game. please guess the number 1 - 100";
+    $message = "Beginning of the game. Please guess the number 1 - 100";
 
     if (isset($_POST["btn"])) {
         $game = $_SESSION["game"];
